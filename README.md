@@ -1,5 +1,8 @@
-# PYTHON PROJECT
+# WizardMode
 
+# WizardMode
+- Enter full wizard mode: vanish, rewind time, and sense emotions.
+  
 # Features
 
 - **Sentiment Analysis (Voice-based)**  
