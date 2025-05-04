@@ -1,6 +1,5 @@
 # WizardMode
 
-# WizardMode
 - Enter full wizard mode: vanish, rewind time, and sense emotions.
   
 # Features
